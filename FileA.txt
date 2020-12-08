@@ -1,2 +1,2 @@
-"This is file A version1"
-Git version
+"This is file A version2 master"
+
